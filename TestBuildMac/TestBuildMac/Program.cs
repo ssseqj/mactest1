@@ -10,7 +10,7 @@ namespace TestBuildMac
     {
         static void Main(string[] args)
         {
-            var myNewCoolVal = new ASCIIEncoding();
+            //var myNewCoolVal = new ASCIIEncoding();
             
         }
     }
